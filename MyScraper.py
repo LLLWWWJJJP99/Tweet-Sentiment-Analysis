@@ -2,10 +2,10 @@ import tweepy
 import socket, re
 import googlemaps
 
-CONSUMER_KEY = "8iNfjSBxfl7lgeUq3NaltZOxD"
-CONSUMER_SECRET = "hGzDMassyAVoFiTpMAD5NJDkatUmu3OjAXCyu7h7ckjGREshq8"
-ACCESS_TOKEN = "901604137095360512-moKiMMxBJ0hDVpupSxSlcU2Vm73oZSL"
-ACCESS_SECRET = "pRC1KCEeccocky4oVcKP8f42vUJEbF9LfRJDIHjL0wvOO"
+CONSUMER_KEY = ""
+CONSUMER_SECRET = ""
+ACCESS_TOKEN = ""
+ACCESS_SECRET = ""
 
 
 class MyScraper(tweepy.StreamListener):
